@@ -14,7 +14,7 @@ Below you will find the instructions on how to set up, run, and play the game, a
 - [Game Rules](#game-rules)
 - [Code Structure](#code-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
